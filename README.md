@@ -1,6 +1,7 @@
 # festa
+This is a Ticket Booking System Project
+![Ticket Project](https://github.com/HarshalCreates/Ticket-Project-Flutter/assets/108286838/1bb4b70b-cd76-4df6-9d4c-dbc0a16ca94a)
 
-A new Flutter project.
 
 ## Getting Started
 
